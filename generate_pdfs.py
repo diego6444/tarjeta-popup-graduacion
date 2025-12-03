@@ -8,6 +8,7 @@ from reportlab.lib.pagesizes import A3, A4
 from reportlab.lib.units import mm, cm
 from reportlab.pdfgen import canvas
 from reportlab.lib.colors import HexColor, black, white
+
 import math
 import os
 import random
