@@ -8,9 +8,6 @@ from reportlab.lib.pagesizes import A3, A4
 from reportlab.lib.units import mm, cm
 from reportlab.pdfgen import canvas
 from reportlab.lib.colors import HexColor, black, white
-from reportlab.pdfbase import pdfmetrics
-from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.lib.utils import ImageReader
 import math
 import os
 

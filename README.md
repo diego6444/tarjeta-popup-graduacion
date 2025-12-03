@@ -127,7 +127,7 @@ Si necesitas modificar los PDFs:
 
 1. **Instalar dependencias:**
    ```bash
-   pip install reportlab pillow
+   pip install reportlab
    ```
 
 2. **Ejecutar el generador:**
