@@ -455,15 +455,9 @@ def create_a4_part1_pdf():
     """Create first part for A4 printing (Portada + Página 1 + half of Página 2)"""
     filename = "imprimibles/tarjeta-completa-A4-parte1.pdf"
     
-    c = canvas.Canvas(filename, pagesize=A4)
-    c.setTitle("Tarjeta Pop-up Graduación - A4 Parte 1")
-    
-    # Calculate to fit on A4
-    # 2.5 pages = 30cm width, needs to fit in A4 landscape (29.7cm)
-    # So we'll use A4 portrait but rotate the content
-    
-    # Actually, let's use landscape
+    # Use landscape A4
     c = canvas.Canvas(filename, pagesize=(A4[1], A4[0]))
+    c.setTitle("Tarjeta Pop-up Graduación - A4 Parte 1")
     
     total_width = 2.5 * PAGE_WIDTH
     a4_width = A4[1]
