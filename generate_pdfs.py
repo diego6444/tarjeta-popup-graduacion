@@ -10,6 +10,7 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.colors import HexColor, black, white
 import math
 import os
+import random
 
 # Color definitions
 COLORS = {
@@ -55,7 +56,6 @@ def draw_banderines(c, x, y, width, colors, size=1.5*cm):
 
 def draw_confetti(c, x, y, width, height, density=20, opacity=0.3):
     """Draw confetti decorations"""
-    import random
     random.seed(42)  # Consistent random placement
     
     colors = [COLORS['rosa_fuerte'], COLORS['lila_fuerte'], COLORS['dorado'], 
@@ -84,7 +84,6 @@ def draw_confetti(c, x, y, width, height, density=20, opacity=0.3):
 
 def draw_circles_background(c, x, y, width, height, opacity=0.25):
     """Draw pastel circles background"""
-    import random
     random.seed(123)
     
     colors = [COLORS['rosa_suave'], COLORS['lila_claro'], COLORS['amarillo'], 
@@ -135,7 +134,6 @@ def draw_fireworks(c, x, y):
 
 def draw_serpentinas(c, x, y, width, height):
     """Draw serpentinas (streamers)"""
-    import random
     random.seed(456)
     
     colors = [COLORS['rosa_fuerte'], COLORS['lila_fuerte']]
@@ -686,7 +684,6 @@ def draw_personaje2(c, x, y, width, height):
     c.line(center_x, y + 3*cm, center_x + 0.8*cm, y + 0.5*cm)
     
     # Confetti around
-    import random
     random.seed(789)
     colors = [COLORS['rosa_fuerte'], COLORS['lila_fuerte'], COLORS['dorado'], COLORS['amarillo']]
     for i in range(10):
@@ -804,7 +801,6 @@ def draw_personaje4(c, x, y, width, height):
     c.line(center_x, y + 3*cm, center_x + 0.8*cm, y + 0.5*cm)
     
     # Falling confetti
-    import random
     random.seed(101)
     colors = [COLORS['rosa_fuerte'], COLORS['lila_fuerte'], COLORS['dorado'], COLORS['amarillo']]
     for i in range(12):
