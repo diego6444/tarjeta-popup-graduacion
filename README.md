@@ -2,6 +2,27 @@
 
 Una hermosa tarjeta pop-up personalizada para celebrar la graduación de Augusto. Esta tarjeta incluye 5 páginas conectadas en formato acordeón con 4 personajes 3D que se despliegan al abrir cada página.
 
+## ⬇️ DESCARGAR PDFs LISTOS PARA IMPRIMIR
+
+**Los archivos PDF están en la carpeta [`imprimibles/`](./imprimibles/)**
+
+### 📥 Descarga Directa:
+
+**Opción A3 (recomendada):**
+- 📄 [tarjeta-completa-A3.pdf](./imprimibles/tarjeta-completa-A3.pdf) - Tarjeta completa
+- 📄 [personajes-popup.pdf](./imprimibles/personajes-popup.pdf) - 4 personajes pop-up
+
+**Opción A4:**
+- 📄 [tarjeta-completa-A4-parte1.pdf](./imprimibles/tarjeta-completa-A4-parte1.pdf) - Parte 1 de 2
+- 📄 [tarjeta-completa-A4-parte2.pdf](./imprimibles/tarjeta-completa-A4-parte2.pdf) - Parte 2 de 2
+- 📄 [personajes-popup.pdf](./imprimibles/personajes-popup.pdf) - 4 personajes pop-up
+
+**Instrucciones:**
+- 📖 [README-IMPRIMIR.md](./imprimibles/README-IMPRIMIR.md) - Guía rápida
+- 📖 [INSTRUCCIONES.md](./imprimibles/INSTRUCCIONES.md) - Guía completa paso a paso
+
+---
+
 ## 📦 Contenido del Repositorio
 
 Este repositorio contiene archivos PDF listos para imprimir y armar una tarjeta de graduación profesional.

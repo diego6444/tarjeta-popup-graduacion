@@ -1,5 +1,20 @@
 # Archivos Listos para Imprimir
 
+## 📥 Cómo Descargar los PDFs
+
+**En GitHub:**
+1. Haz clic en el nombre del archivo PDF que quieres descargar
+2. Haz clic en el botón "Download" o "Descargar" (icono con flecha hacia abajo)
+3. El archivo se descargará a tu computadora
+
+**Archivos disponibles en esta carpeta:**
+- `tarjeta-completa-A3.pdf`
+- `tarjeta-completa-A4-parte1.pdf`
+- `tarjeta-completa-A4-parte2.pdf`
+- `personajes-popup.pdf`
+
+---
+
 ## Opción 1: Impresora A3
 1. Descarga `tarjeta-completa-A3.pdf`
 2. Descarga `personajes-popup.pdf`
