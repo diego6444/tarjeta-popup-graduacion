@@ -4,9 +4,15 @@ Una hermosa tarjeta pop-up personalizada para celebrar la graduación de Augusto
 
 ## ⬇️ DESCARGAR PDFs LISTOS PARA IMPRIMIR
 
+**IMPORTANTE:** Los archivos PDF están en esta rama del Pull Request. Para acceder a ellos:
+
+1. **En GitHub:** Asegúrate de estar viendo la rama `copilot/create-pop-up-graduation-card` (aparece arriba a la izquierda)
+2. **Navega a la carpeta:** Haz clic en [`imprimibles/`](./imprimibles/) 
+3. **Descarga cada PDF:** Haz clic en el archivo, luego en el botón "Download" (⬇️)
+
 **Los archivos PDF están en la carpeta [`imprimibles/`](./imprimibles/)**
 
-### 📥 Descarga Directa:
+### 📥 Descarga Directa desde esta rama:
 
 **Opción A3 (recomendada):**
 - 📄 [tarjeta-completa-A3.pdf](./imprimibles/tarjeta-completa-A3.pdf) - Tarjeta completa
@@ -20,6 +26,16 @@ Una hermosa tarjeta pop-up personalizada para celebrar la graduación de Augusto
 **Instrucciones:**
 - 📖 [README-IMPRIMIR.md](./imprimibles/README-IMPRIMIR.md) - Guía rápida
 - 📖 [INSTRUCCIONES.md](./imprimibles/INSTRUCCIONES.md) - Guía completa paso a paso
+
+### 💡 ¿No ves la carpeta `imprimibles/`?
+
+Si estás en la página principal del repositorio y no ves la carpeta `imprimibles/`, es porque los archivos están en este **Pull Request** (rama `copilot/create-pop-up-graduation-card`).
+
+**Opciones para acceder:**
+
+1. **Descargar desde esta rama:** Usa los enlaces de arriba ⬆️
+2. **Ver archivos en el navegador:** Haz clic en el botón "Files changed" (Archivos modificados) en este PR
+3. **Esperar al merge:** Una vez que se apruebe y merge este PR, los archivos estarán en la rama principal
 
 ---
 
